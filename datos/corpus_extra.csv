@@ -1,0 +1,11 @@
+doc_id,title,body
+M01,Canción de cuna,"La canción suave, lenta y tranquila."
+M02,Cancion sin tilde,La cancion aparece sin acento.
+M03,Mayúsculas y MINÚSCULAS,"PYTHON, Python y python son la misma palabra."
+M04,Números y símbolos,Versión 3 del año 2026; guion_bajo separa_palabras.
+M05,Cuerpo vacío,
+M06,Comillas y saltos,"Línea uno
+línea dos con ""comillas"" y coma, dentro."
+M07,Ñandú y eñe,El ñandú corre; ÑANDÚ y ñandú.
+M08,Normalización NFKC,El ﬁnal y el final coinciden.
+m01,Id en minúscula,Distingue mayúsculas y minúsculas en doc_id.

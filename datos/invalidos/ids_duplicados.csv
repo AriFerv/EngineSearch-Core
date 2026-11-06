@@ -1,0 +1,4 @@
+doc_id,title,body
+D01,Primero,texto uno
+D02,Segundo,texto dos
+D01,Repetido,mismo id que el primero

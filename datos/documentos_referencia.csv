@@ -1,0 +1,7 @@
+doc_id,title,body
+D01,Algoritmos eficientes,Python ordena datos. Python busca datos.
+D02,Búsqueda inteligente,Un índice hash busca palabras y documentos.
+D03,Árboles balanceados,Un árbol AVL busca palabras.
+D04,Eficiencia de algoritmos,Ordenar datos cuesta tiempo y memoria.
+D05,Filtros probabilísticos,Bloom descarta palabras ausentes.
+D06,Programación dinámica,La distancia de edición sugiere palabras.
